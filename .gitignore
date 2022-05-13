@@ -1,5 +1,7 @@
 Week 1/**/**
 
+Week 1/**/.idea/
+
 !Week 1/**/src
 
 !Week 1/**/*.iml
